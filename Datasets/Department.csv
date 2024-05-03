@@ -1,0 +1,21 @@
+DepartmentID,DepartmentName,ManagerID
+101,Sales,1
+102,Marketing,2
+103,Finance,4
+104,HR,NULL
+105,Operations,7
+106,IT,9
+107,Research,12
+108,Customer Service,15
+109,Production,18
+110,Quality Assurance,21
+111,Purchasing,24
+112,Logistics,27
+113,Administration,30
+114,Legal,33
+115,Compliance,36
+116,Training,39
+117,Public Relations,42
+118,R&D,45
+119,Marketing Analytics,48
+120,Sales Support,50
